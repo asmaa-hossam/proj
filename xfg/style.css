@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(245, 231, 189);
+}
+.div1{
+width: 220;
+height:230 ;
+background-color:rgb(236, 204, 107);
+}
+
+
+.imgcat1{
+width: 220px;
+height: 120px;
+}
+.div2{
+    background-color: rgb(236, 204, 107);
+   width: 150px; 
+   height: 150px;
+   
+}
+
+.div2:hover{
+    border-radius: 50%;
+}
+.div3{
+    background-color: rgb(236, 204, 107);
+   width:220px; 
+   height:230px;
+   
+}
+.imgcat2{
+    width: 220px;
+    height: 120px;
+    }
+    .imgcat3{
+        width: 250px;
+        height: 100px;
+       
+
+    }
+    .div4{
+        background-color:  rgb(236, 204, 107);
+    }
